@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Owoyele-Abraham-Olamilekan
+- 👋 Hi, I’m @Spiritu@l
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
